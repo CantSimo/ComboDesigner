@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ComboBreaker",
   "resources": {
-    "hash": "sha256-FtPlsq+A/xtCppFJVvxWhJhs1VDzoPiZsiA9nd3nKuU=",
+    "hash": "sha256-vuiB8oTHJrr4Ptj6KpTDcooXMQeuZ3Vf2jhs/5EnahQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.jdywpfjxhb.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "BlazorSortableList.wasm": "sha256-YZnDyGE58rXWVLd59l8pClQ+IQ7ckgUkhq4nijoCKmA=",
-      "ComboBreaker.wasm": "sha256-ugcdyaxzjhkrWq0gQf8ZqbUbZa6JQZh4AiD3DCMUtRw=",
+      "ComboBreaker.wasm": "sha256-MxDsRt5Uoo2jP19vPUKTeS6YhTmwqc7i10h/bkpu2BM=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-LfSkLK5auXS6cv/lyj3nmeu7IAMF7iM835tBwfb25vI=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-vKNU7yeUEbPyvML8cuK66n4Ml+dtMDYG0C6728VOh1k=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Q4gQS+wAI/o1p0ABACPX+vUj06GrNg33CWKIBqv9S0w=",
