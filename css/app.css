@@ -1,0 +1,43 @@
+.arrow-img {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+}
+
+    .arrow-img:hover {
+        background-color: rgba(0, 0, 0, 0.1);
+        border-radius: 4px;
+    }
+
+.action-img {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+}
+
+.icon-button {
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+    outline: none;
+}
+
+.icon-button-action {
+    border: none;
+    background: none;
+    margin: 3px;
+    cursor: pointer;
+    outline: none;
+    position: relative; /* Necessario per il posizionamento delle ombre */
+    border-radius: 8px; /* Bordo arrotondato per un aspetto più morbido */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19); /* Ombra del pulsante */
+    transition: box-shadow 0.3s ease, transform 0.3s ease; /* Transizione per l'ombra e la trasformazione */
+}
+
+    .icon-button-action:active {
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 3px 10px rgba(0, 0, 0, 0.19); /* Ombra ridotta quando il pulsante è premuto */
+        transform: translateY(2px); /* Effetto di pressione */
+    }

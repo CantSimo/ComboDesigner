@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="550.28931"
+   height="550.2879"
+   viewBox="0 0 550.28933 550.28792"
+   sodipodi:docname="fa-kick-punch-vector.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath32">
+      <path
+         d="M 0,1024 H 1024 V 0 H 0 Z"
+         transform="translate(-411.64081,-381.75491)"
+         id="path32" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath34">
+      <path
+         d="M 0,1024 H 1024 V 0 H 0 Z"
+         transform="translate(-254.9146,-132.76338)"
+         id="path34" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath36">
+      <path
+         d="M 0,1024 H 1024 V 0 H 0 Z"
+         transform="translate(-482.10831,-286.42391)"
+         id="path36" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="layer-MC0"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-105.72174,-708.29081)">
+    <path
+       id="path31"
+       d="m 0,0 c 18.115,-16.402 28.747,-36.474 34.473,-59.291 1.731,-6.896 2.661,-14.023 3.488,-21.099 0.226,-1.927 -0.642,-4.748 -2.043,-5.988 -48.977,-43.353 -98.895,-85.577 -151.071,-125.067 -1.276,-0.965 -2.645,-1.807 -4.86,-3.309 -3.998,7.295 -7.995,14.345 -11.764,21.515 -9.371,17.824 -18.343,35.865 -28.057,53.498 -5.968,10.835 -14.483,19.267 -26.376,24.094 -13.36,5.422 -22.174,15.278 -28.062,28.615 -10.39,23.535 -20.903,46.967 -26.201,72.299 -1.053,5.034 -1.506,10.245 -1.686,15.394 -0.192,5.515 2.032,7.647 7.524,7.108 11.915,-1.171 21.542,-6.218 27.003,-17.464 2.261,-4.654 4.506,-9.33 6.451,-14.12 10.294,-25.347 29.316,-40.716 55.53,-46.511 16.674,-3.685 33.787,-5.533 50.788,-7.448 3.272,-0.368 7.572,2.047 10.329,4.42 26.948,23.188 53.667,46.642 80.458,70.012 C -2.874,-2.294 -1.61,-1.317 0,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,548.8544,856.3268)"
+       clip-path="url(#clipPath32)" />
+    <path
+       id="path33"
+       d="m 0,0 c -9.709,19.592 -19.12,38.583 -28.33,57.169 2.942,4.19 6.237,8.008 8.551,12.348 6.004,11.263 2.795,24.1 -7.818,31.037 -9.106,5.952 -18.666,11.209 -27.795,17.129 -2.893,1.877 -5.773,4.495 -7.422,7.461 -19.716,35.46 -35.636,72.359 -41.519,112.918 -0.383,2.644 -1.288,5.651 -0.434,7.917 0.92,2.442 3.295,5.309 5.632,6.014 3.452,1.041 3.873,-2.381 4.339,-5.168 6.544,-39.133 18.73,-76.162 40.48,-109.73 4.526,-6.985 9.665,-12.629 17.67,-15.505 17.318,-6.222 26.949,-19.872 33.911,-35.901 C 6.149,65.236 14.827,44.692 23.773,24.266 25.099,21.235 24.656,19.574 22.08,17.602 14.718,11.967 7.564,6.062 0,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,339.88613,1188.3155)"
+       clip-path="url(#clipPath34)" />
+    <path
+       id="path35"
+       d="m 0,0 c 0,-108.501 -87.957,-196.458 -196.458,-196.458 -108.501,0 -196.459,87.957 -196.459,196.458 0,108.501 87.958,196.458 196.459,196.458 C -87.957,196.458 0,108.501 0,0 Z"
+       style="fill:none;stroke:#000000;stroke-width:19.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,642.81107,983.4348)"
+       clip-path="url(#clipPath36)" />
+  </g>
+</svg>
